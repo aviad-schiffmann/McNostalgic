@@ -118,7 +118,6 @@ ul.links-social {
     display: inline-block;
     padding: 0;
     margin: 0;
-    margin-top: 14px;
     width: 100%
 }
 
@@ -157,6 +156,6 @@ p {
 
 img.m-icon {
     display: inline-block;
-    width: 32px;
-    padding-bottom: 8px;
+    width: 33px;
+    padding-bottom: 10px;
 }
